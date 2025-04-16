@@ -9,7 +9,7 @@ const NavigationBar = () => {
     <div className="container mx-auto py-6">
       <div className="flex flex-row justify-between items-center">
         <div className="flex flex-row gap-2 items-center">
-          <Image src={HonoSvg} alt="Hono's logo" className="w-4 h-4" />
+          <Image src={HonoSvg} alt="Hono's logo" className="w-5 h-5" />
           <span className="text-2xl font-bold"> Hono</span>
         </div>
         <nav className="flex flex-row gap-8 items-center">
